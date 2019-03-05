@@ -1,4 +1,4 @@
 # gitskills
-# Hello World!!!
+# Hello World
 # simple
 # no Fast forward
